@@ -60,3 +60,7 @@
 ## Running with MetaMask
 
 Since `truffle develop` exposes the blockchain onto port `9545`, you'll need to add a Custom RPC network of `http://localhost:9545` in your MetaMask to make it work.
+
+## Prior art
+
+This project builds upon [adrianmcli/truffle-next](https://github.com/adrianmcli/truffle-next).
