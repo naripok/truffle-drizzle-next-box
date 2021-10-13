@@ -16,7 +16,7 @@
 1. Install Truffle globally.
 
    ```bash
-   npm install -g truffle
+   yarn global add truffle
    ```
 
 2. Download the box. This also takes care of installing the necessary dependencies.
